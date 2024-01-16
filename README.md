@@ -68,17 +68,3 @@ It is then followed by AAA Batteries which are recording the least sales among t
 In general, to optimize sales, it is recommended to buy more products, increase stock, and focus on selling during peak hours.
 
 
-
-
-
-
-
-
-
-![image](https://github.com/lauranyangasi/Power-Bi-Capstone-Project/assets/136954763/591d40b4-d218-4363-aa46-078f0b7eaf4a)
-
-
-
-
-
-
